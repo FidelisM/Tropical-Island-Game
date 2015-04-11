@@ -1,0 +1,10 @@
+c:\users\karin\documents\visual studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\bin\Debug\Prog4TropicalIslandGame.exe.config
+c:\users\karin\documents\visual studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\bin\Debug\Prog4TropicalIslandGame.exe
+c:\users\karin\documents\visual studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\bin\Debug\Prog4TropicalIslandGame.pdb
+c:\users\karin\documents\visual studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\obj\Debug\Prog4TropicalIslandGame.csprojResolveAssemblyReference.cache
+c:\users\karin\documents\visual studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\obj\Debug\Prog4TropicalIslandGame.Properties.Resources.resources
+c:\users\karin\documents\visual studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\obj\Debug\Prog4TropicalIslandGame.csproj.GenerateResource.Cache
+c:\users\karin\documents\visual studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\obj\Debug\Prog4TropicalIslandGame.exe
+c:\users\karin\documents\visual studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\obj\Debug\Prog4TropicalIslandGame.pdb
+C:\Users\Karin\Documents\Visual Studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\obj\Debug\Prog4TropicalIslandGame.NavigationSystem.resources
+C:\Users\Karin\Documents\Visual Studio 2013\Projects\Prog4TropicalIslandGame\Prog4TropicalIslandGame\obj\Debug\Prog4TropicalIslandGame.FindTheIslandGame.resources
